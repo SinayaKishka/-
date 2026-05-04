@@ -15,3 +15,5 @@ vless://a0e4e8b6-0518-4f19-803e-eece71583392@kz.appav.online:2083?encryption=non
 vless://bdbbd99d-a6c0-4068-ba6b-73336fb4bbbb@37.49.225.127:443?encryption=none&flow=xtls-rprx-vision&fp=random&packetEncoding=xudp&pbk=Ubt2RpA0Hh30MNgFMyWcjGSC2ur-SbkMhf2YPa0OwQg&security=reality&sid=1fae5eb4e580b8a6&sni=nl.botfight.fun&type=tcp#ГАЛАНЬДИЙА
 
 vless://8f8ccdc5-fe99-38d7-a8a6-422f8c88ef0a@s643.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s643.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=7190s643.ccgfw.top&serviceName=&mode=&alpn=#великапитания
+
+vless://26524cce-d514-4014-a426-365fb266a14d@217.28.130.84:443?allowInsecure=0&host=xfxl35a.node-edge.gfw.hidns.co&path=/danfengfp=chrome&security=tls&sni=xfxl35a.node-edge.gfw.hidns.co&type=ws#бургер
